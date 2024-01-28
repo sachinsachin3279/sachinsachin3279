@@ -31,7 +31,6 @@ Back-End:
 
 I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on:
 
-- [Learning Rust]
 - [Working on Speech recognition in Python]
 
 ## 📫 Let's Connect
