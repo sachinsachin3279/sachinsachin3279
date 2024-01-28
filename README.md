@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a Part-time Software/Web Developer passionate 
 
 ## 🚀 Skills and Technologies
 
-- **Languages:** [Python, Javascript, HTML&CSS, C&C++, C#]
+- **Languages:** [Python, Javascript, HTML&CSS, C&C++, C#]![image](https://github.com/sachinsachin3279/sachinsachin3279/assets/144247317/0a268aa5-b7b0-4c6b-983b-fff585e24a0c)
+
 
 ## 🌱 I'm Currently Learning
 
